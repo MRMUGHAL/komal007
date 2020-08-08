@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - IMRAN -OFFICAL------•◈•
-|__\~~) •||•OWNER - AFTHZ©™---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - KOMAL SHEHZADI -OFFICAL------•◈•
+|__\~~) •||• -----------•◈•
+|__(-----\  •◈•------QUEEN----•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m ImranAli
-\033[1;96mInstagram \033[1;93m: \033[1; Imran
-\033[1;96mFacebook  \033[1;93m: \033[1; ImranAli
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ImranAli/Imran
+\033[1;96mAuthor  \033[1;93m: \033[1;92m MR MUGHAL
+\033[1;96mAutthor \033[1;93m: \033[1; Komal
+\033[1;96mQueen  \033[1;93m: \033[1; Of World
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MRMUGHAL
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Imran Ali
-\033[1;96mInstagram \033[1;93m: \033[1;92m Imran
-\033[1;96mFacebook  \033[1;93m: \033[1;92m ImranAli
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/ImranAli/Imran
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Komal Shehzadi
+\033[1;96mFacebook \033[1;93m: \033[1;92m Queen
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Komal Rani
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/MRMUGHAL
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Imran"
-CorrectPassword = "Imran"
+CorrectUsername = "Komal"
+CorrectPassword = "Mughal"
 
 loop = 'true'
 while (loop == 'true'):
